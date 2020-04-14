@@ -1,4 +1,5 @@
 <!----------Đầu---------------->
+<script>
 <div style="clear: both; text-align: center;">
 <img src="https://3.bp.blogspot.com/--ey6hRtag3g/XUawFPAEfPI/AAAAAAAABMo/9_cEuKGdigU7sSjp3_UovZ43WY7Ms7IjwCLcBGAs/s1600/0.png" />
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
@@ -33,4 +34,5 @@ img {vertical-align: middle;}
 <a href="#" id="cuon-active"><i class="fas fa-angle-double-right"></i></a>
 </div>
 </div>
+</script>
 <!----------Cuối---------------->
